@@ -25,7 +25,7 @@ ___INFO___
     "id": "github.com_ayruz-data-marketing",
     "displayName": "Ayruz-data-marketing"
   },
-  "description": "Tag that send the event data to Facebook Conversion API.",
+  "description": "This tag enables you to seamlessly send the event data to the Facebook Conversion API.",
   "containerContexts": [
     "SERVER"
   ]
